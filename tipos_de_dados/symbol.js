@@ -1,0 +1,1 @@
+const cachorro = Symbol("pitico")

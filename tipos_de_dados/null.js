@@ -1,0 +1,1 @@
+const atividade = null
