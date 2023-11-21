@@ -10,7 +10,7 @@ class Cachorro {
 }
  
  
-const alfredo = new Cachorro()
+const alfredo = new Cachorro("Alfredo", 5)
 
 alfredo.latir()
  

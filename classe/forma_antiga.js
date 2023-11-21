@@ -8,7 +8,7 @@ Cachorro.prototype.latir = function () {
   console.log('Auu Auu')
 }
  
-const alfredo = new Cachorro()
+const alfredo = new Cachorro("Alfredo", 5)
 
 alfredo.latir()
  
